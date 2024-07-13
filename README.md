@@ -16,7 +16,7 @@ This repository consists of solutions to HackerRank **practice**, **tutorials**,
 
 ## HackerRank Badges
 
-![Python](/badges/python_5_star.png)
+![Python](/badges/sql_5_star.png)
 
 ## HackerRank Certificates
 
