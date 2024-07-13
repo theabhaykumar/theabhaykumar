@@ -1,16 +1,31 @@
-## Hi there 👋
+<p align="center"><a href="https://www.hackerrank.com/maasker"><img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" ></a></p>
 
-<!--
-**theabhaykumar/theabhaykumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# HackerRank | Practice, Tutorials & Interview Preparation Solutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This repository consists of solutions to HackerRank **practice**, **tutorials**, and **interview preparation** problems with **Python**, **Linux**, **C++**, and **Java**.
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/maasker/HackerRank.svg)](https://github.com/maasker/HackerRank) 
+[![GitHub commit activity the past week, 4 weeks, year](https://img.shields.io/github/commit-activity/y/maasker/HackerRank.svg)](https://github.com/maasker/HackerRank)
+[![GitHub repo size in bytes](https://img.shields.io/github/repo-size/maasker/HackerRank.svg)](https://github.com/maasker/HackerRank) 
+[![GitHub stars](https://img.shields.io/github/stars/maasker/HackerRank.svg)](https://github.com/maasker/HackerRank)
+
+## Personal HackerRank Profile
+
+[View Profile](https://www.hackerrank.com/theabhaykumar)
+
+## HackerRank Badges
+
+![Python](/badges/python_5_star.png)
+
+## HackerRank Certificates
+
+<a href="Skills%20Certification/Python%20(Basic)%20Certificate.png">
+    <img src="badges/python_basic_skill.png" alt="Python (Basic) Certificate"/>
+</a>
+<a href="Skills%20Certification/Java%20(Basic)%20Certificate.png">
+    <img src="badges/java_basic_skill.png" alt="Java (Basic) Certificate"/>
+</a>
+<a href="Skills%20Certification/Problem%20Solving%20(Basic)%20Certificate.png">
+    <img src="badges/problem_solving_basic_skill.png" alt="Problem Solving (Basic) Certificate"/>
+</a>
