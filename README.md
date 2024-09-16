@@ -4,7 +4,7 @@
 </div> -->
 
 # 💫 About Me:
-An efficient student committed to learning and developing skills in programming. Self-directed and energetic with superior<br>performance in both autonomous or collaborative environments.Successful in quickly building skills, self-teaching, and acquiring new knowledge.
+Passionate and result driven graduate committed towards quickly developing skills and acquiring new knowledge. Believes in building projects that are innovative and solve real life problems.
 
 
 
